@@ -6,12 +6,6 @@ import matplotlib.pyplot as plt
 
 
 """
-***************************
-IMPORTANT
-PLEASE DOWNLOAD CSV VERSION FROM THE FOLLOWING LINK (too large to be pushed without github large file storage)
-Data: https://catalog.data.gov/dataset/crime-data-from-2020-to-present
-***************************
-
 Data cleaning stuff:
 Issues with data: 
 1/18/2024 - LAPD is facing issues with posting the Crime data
